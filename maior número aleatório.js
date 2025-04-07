@@ -1,3 +1,5 @@
+//parte de um exercício no curso que estou fazendo.
+
 let numero1 = parseInt(Math.random()* 10 + 1);
 let numero2 = parseInt(Math.random()* 10 + 1);
 
